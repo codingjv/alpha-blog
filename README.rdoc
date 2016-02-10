@@ -1,6 +1,14 @@
 
 This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
 
+
+Validations for User class:
+1) username must be present and unique
+2) email must be present and unique
+3) validate email format using regex 
+
+
+
 HW assignment.. 
 1) Create a new Rails application and call it alpha-blog
 2) Ensure you can run the server and preview the application
